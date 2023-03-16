@@ -1,26 +1,26 @@
 # Calcolo-Integrale-2022-2023
 Questa cartella contiene una raccolta di schede di preparazione di esercizi con soluzioni per Esoneri/Esami del prof. Luigi Orsina relativi al corso "Calcolo Integrale" della facoltà di Informatica all'università "La Sapienza" di Roma.
 
-## Set di schede n.1:
+## Set di schede n°1 (Serie numeriche, geometriche e armoniche, confronto, confronto asintotico):
 |    |    |    |    |    |
 |----|----|----|----|----|
-| [01](SchedeA1/00253.pdf) | [02](../../blob/main/SchedeA1/00253.pdf)| [03](SchedeA1/00253.pdf) | [04](./SchedeA1/00253.pdf) | [05](../../discussions/40)
-| [06](../../discussions/39) | [07](../../discussions/38) | [08](../../discussions/37) | [09](../../discussions/36) | [10](../../discussions/35)
-| [11](../../discussions/34) | [12](../../discussions/33) | [13](../../discussions/32) | [14](../../discussions/31) | [15](../../discussions/30)
-| [16](../../discussions/29) | [17](../../discussions/28) | [18](../../discussions/27) | [19](../../discussions/26) | [20](../../discussions/25)|
+| [01](SchedeA1/00077.pdf) | [02](SchdeA1/00094.pdf)| [03](SchedeA1/00126.pdf) | [04](/SchedeA1/00147.pdf) | [05](/SchedeA1/00166.pdf)
+| [06](/SchedeA1/00187.pdf) | [07](/SchedeA1/00193.pdf) | [08](/SchedeA1/00194.pdf) | [09](SchedeA1/00198.pdf) | [10](SchedeA1/00220.pdf)
+| [11](SchedeA1/00253.pdf) | [12]() | [13]() | [14]() | [15]()
+| [16]() | [17]() | [18]() | [19]() | [20]()|
 
-## Set di schede n.2:
+## Set di schede n°2 (Confronto, confronto asintotico, criterio del rapporto e della radice, formula di stirling)
 |    |    |    |    |    |
 |----|----|----|----|----|
-| [01](../../blob/main/SchedeA1/00126.pdf) | [02](../../discussions/43)| [03](../../discussions/42) | [04](../../discussions/41) | [05](../../discussions/40)
-| [06](../../discussions/39) | [07](../../discussions/38) | [08](../../discussions/37) | [09](../../discussions/36) | [10](../../discussions/35)
-| [11](../../discussions/34) | [12](../../discussions/33) | [13](../../discussions/32) | [14](../../discussions/31) | [15](../../discussions/30)
-| [16](../../discussions/29) | [17](../../discussions/28) | [18](../../discussions/27) | [19](../../discussions/26) | [20](../../discussions/25)|
+| [01](SchedeA1/00077.pdf) | [02](SchdeA1/00094.pdf)| [03](SchedeA1/00126.pdf) | [04](/SchedeA1/00147.pdf) | [05](/SchedeA1/00166.pdf)
+| [06](/SchedeA1/00187.pdf) | [07](/SchedeA1/00193.pdf) | [08](/SchedeA1/00194.pdf) | [09](SchedeA1/00198.pdf) | [10](SchedeA1/00220.pdf)
+| [11](SchedeA1/00253.pdf) | [12]() | [13]() | [14]() | [15]()
+| [16]() | [17]() | [18]() | [19]() | [20]()|
 
-## Set di schede n.3:
+## Set di schede n.3 (Serie di Taylor e serie di potenze):
 |    |    |    |    |    |
 |----|----|----|----|----|
-| [01](../../blob/main/SchedeA1/00126.pdf) | [02](../../discussions/43)| [03](../../discussions/42) | [04](../../discussions/41) | [05](../../discussions/40)
-| [06](../../discussions/39) | [07](../../discussions/38) | [08](../../discussions/37) | [09](../../discussions/36) | [10](../../discussions/35)
-| [11](../../discussions/34) | [12](../../discussions/33) | [13](../../discussions/32) | [14](../../discussions/31) | [15](../../discussions/30)
-| [16](../../discussions/29) | [17](../../discussions/28) | [18](../../discussions/27) | [19](../../discussions/26) | [20](../../discussions/25)|
+| [01](SchedeA1/00077.pdf) | [02](SchdeA1/00094.pdf)| [03](SchedeA1/00126.pdf) | [04](/SchedeA1/00147.pdf) | [05](/SchedeA1/00166.pdf)
+| [06](/SchedeA1/00187.pdf) | [07](/SchedeA1/00193.pdf) | [08](/SchedeA1/00194.pdf) | [09](SchedeA1/00198.pdf) | [10](SchedeA1/00220.pdf)
+| [11](SchedeA1/00253.pdf) | [12]() | [13]() | [14]() | [15]()
+| [16]() | [17]() | [18]() | [19]() | [20]()|

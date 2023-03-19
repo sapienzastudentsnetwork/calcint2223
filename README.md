@@ -26,4 +26,9 @@ Questa cartella contiene una raccolta di schede di preparazione di esercizi con 
 |  |  |  |  |  |
 
 ## Set di schede n°4 (Pre-Esoneri):
-### In Arrivo!
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](SchedeA4/00014.pdf) | [02](SchedeA4/00016.pdf)| [03](SchedeA4/00018.pdf) | [04](/SchedeA4/00029.pdf) | [05](/SchedeA4/00033.pdf)
+| [06](/SchedeA4/00046.pdf) | [07](/SchedeA4/00081.pdf) | [08](/SchedeA4/00082.pdf) | [09](SchedeA4/00089.pdf) | [10](SchedeA4/00104.pdf)
+| [11](SchedeA4/00109.pdf) | [12](SchedeA4/00124.pdf) |  |  | 
+|  |  |  |  |  |

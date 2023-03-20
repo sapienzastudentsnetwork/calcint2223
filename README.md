@@ -9,7 +9,7 @@ Questa cartella contiene una raccolta di schede di preparazione di esercizi con 
 | [11](SchedeA1/00253.pdf) | [12](SchedeA1/00238.pdf) | [13](SchedeA1/00219.pdf) | [14](SchedeA1/00096.pdf) | [15](SchedeA1/00086.pdf)
 |  |  |  |  |  |
 
-## Set di schede n°2 (Confronto, confronto asintotico, criterio del rapporto e della radice, formula di stirling)
+## Set di schede n°2 (Confronto, confronto asintotico, criterio del rapporto e della radice)
 |    |    |    |    |    |
 |----|----|----|----|----|
 | [01](SchedeA2/00015.pdf) | [02](SchedeA2/00018.pdf)| [03](SchedeA2/00032.pdf) | [04](SchedeA2/00035.pdf) | [05](SchedeA2/00036.pdf)

@@ -1,5 +1,5 @@
-# Calcolo-Integrale-2022-2023
-Questa cartella contiene una raccolta di schede di preparazione di esercizi con soluzioni per Esoneri/Esami del prof. Luigi Orsina relativi al corso "Calcolo Integrale" della facoltà di Informatica all'università "La Sapienza" di Roma.
+# Calcolo Integrale (A.A. 2022-2023)
+Questo repository contiene una raccolta di schede di esercizi con soluzioni (di preparazione ad Esoneri/Esami) distribuite dal prof. Luigi Orsina e dalla prof.ssa Azahara De La Torre Pedraza nell'ambito dell'insegnamento di "Calcolo Integrale" del corso di laurea in Informatica (Triennale) presso Sapienza Università di Roma. 
 
 ## Set di schede n°1 (Serie numeriche, geometriche e armoniche, confronto, confronto asintotico):
 |    |    |    |    |    |

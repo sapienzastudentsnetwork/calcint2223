@@ -25,10 +25,25 @@ Questa cartella contiene una raccolta di schede di preparazione di esercizi con 
 | [11](SchedeA3/00127.pdf) | [12](SchedeA3/00005.pdf) | [13](SchedeA3/00105.pdf) | [14](SchedeA3/00108.pdf) | [15](SchedeA3/00019.pdf)
 |  |  |  |  |  |
 
-## Set di schede n°4 (Pre-Esoneri):
+## Set di schede di Pre-Esonero n°1:
 |    |    |    |    |    |
 |----|----|----|----|----|
 | [01](SchedeA4/00014.pdf) | [02](SchedeA4/00016.pdf)| [03](SchedeA4/00018.pdf) | [04](SchedeA4/00029.pdf) | [05](/SchedeA4/00033.pdf)
 | [06](SchedeA4/00046.pdf) | [07](SchedeA4/00081.pdf) | [08](SchedeA4/00082.pdf) | [09](SchedeA4/00089.pdf) | [10](SchedeA4/00104.pdf)
 | [11](SchedeA4/00109.pdf) | [12](SchedeA4/00124.pdf) | [13](SchedeA4/00034.pdf) | [14](SchedeA4/00017.pdf) | [15](SchedeA4/00079.pdf)
 |  |  |  |  |  |
+
+## Set di schede n°4 (Integrabilità di una funzione):
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](SchedeB1/00020.pdf) | [02](SchedeB1/00021.pdf)| [03](SchedeB1/00036.pdf) | [04](SchedeB1/00041.pdf) | [05](/SchedeB1/00042.pdf)
+| [06](SchedeB1/00058.pdf) | [07](SchedeB1/00078.pdf) | [08](SchedeB1/00095.pdf) |
+
+
+## Set di schede n°5 (Integrazione per sostituzione e per parti):
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](SchedeB2/00038.pdf) | [02](SchedeB2/00039.pdf)| [03](SchedeB2/00058.pdf) | [04](SchedeB2/00059.pdf) | [05](/SchedeB2/00073.pdf)
+| [06](SchedeB2/00093.pdf) | [07](SchedeB2/00109.pdf) | [08](SchedeB2/00111.pdf) |
+
+

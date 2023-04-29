@@ -39,11 +39,24 @@ Questo repository contiene una raccolta di schede di esercizi con soluzioni (di 
 | [01](SchedeB1/00020.pdf) | [02](SchedeB1/00021.pdf)| [03](SchedeB1/00036.pdf) | [04](SchedeB1/00041.pdf) | [05](/SchedeB1/00042.pdf)
 | [06](SchedeB1/00058.pdf) | [07](SchedeB1/00078.pdf) | [08](SchedeB1/00095.pdf) |
 
-
 ## Set di schede n°5 (Integrazione per sostituzione e per parti):
 |    |    |    |    |    |
 |----|----|----|----|----|
 | [01](SchedeB2/00038.pdf) | [02](SchedeB2/00039.pdf)| [03](SchedeB2/00058.pdf) | [04](SchedeB2/00059.pdf) | [05](/SchedeB2/00073.pdf)
 | [06](SchedeB2/00093.pdf) | [07](SchedeB2/00109.pdf) | [08](SchedeB2/00111.pdf) |
 
+## Set di schede n°6 (Analisi di una funzione tramite integrali):
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](SchedeB3/00029.pdf) | [02](SchedeB3/00032.pdf)| [03](SchedeB3/00048.pdf) | [04](SchedeB3/00053.pdf) | [05](/SchedeB3/00069.pdf)
+| [06](SchedeB3/00097.pdf) | [07](SchedeB3/00129.pdf) | [08](SchedeB3/00153.pdf) |
+
+## Set di schede di Pre-Esonero n°2:
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](SchedeB4/00011.pdf) | [02](SchedeB4/00013.pdf)| [03](SchedeB4/00028.pdf) | [04](SchedeB4/00029.pdf) | [05](/SchedeB4/00040.pdf)
+| [06](SchedeB4/00066.pdf) | [07](SchedeB4/00091.pdf) | [08](SchedeB4/00110.pdf) |
+
+## Esempio di esonero 1
+[Esonero 1][(Esonero1/00092)]
 

@@ -60,5 +60,5 @@ Questo repository contiene una raccolta di schede di esercizi con soluzioni (di 
 ## Esempio di esonero 1
 |    |    |    |    |    |
 |----|----|----|----|----|
-|[Esonero 1](Esonero1/00092)|
+|[Esonero 1](Esonero1/00092.pdf)|
 

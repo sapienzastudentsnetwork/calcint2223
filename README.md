@@ -57,6 +57,14 @@ Questo repository contiene una raccolta di schede di esercizi con soluzioni (di 
 | [01](SchedeB4/00011.pdf) | [02](SchedeB4/00013.pdf)| [03](SchedeB4/00028.pdf) | [04](SchedeB4/00029.pdf) | [05](/SchedeB4/00040.pdf)
 | [06](SchedeB4/00066.pdf) | [07](SchedeB4/00091.pdf) | [08](SchedeB4/00110.pdf) |
 
+## Set di schede n°7 (Equazioni Differenziali):
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](SchedeC1/00021.pdf) | [02](SchedeC1/00038.pdf)| [03](SchedeC1/00041.pdf) | [04](SchedeC1/00042.pdf) | [05](/SchedeC1/00058.pdf)
+| [06](SchedeC1/00095.pdf) | [07](SchedeC1/00120.pdf) | [08](SchedeC1/00145.pdf) |
+
 ## Esempio di esonero 1
 [Esonero 1][(Esonero1/00092)]
-
+|    |    |    |
+|----|----|----|
+| [Esonero 1][(Esonero1/00043)] | [Esonero1](Esonero1/00092.pdf)| [Esonero2](Esonero2/00049.pdf) | [Esonero2](Esonero2/00098.pdf) | 

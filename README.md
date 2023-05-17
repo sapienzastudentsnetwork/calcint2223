@@ -1,5 +1,7 @@
 # Calcolo Integrale (A.A. 2022-2023)
-Questo repository contiene una raccolta di schede di esercizi con soluzioni (di preparazione ad Esoneri/Esami) distribuite dal prof. Luigi Orsina e dalla prof.ssa Azahara De La Torre Pedraza nell'ambito dell'insegnamento di "Calcolo Integrale" del corso di laurea in Informatica (Triennale) presso Sapienza Università di Roma. 
+Questo repository contiene una raccolta di schede di esercizi con soluzioni (di preparazione ad Esoneri/Esami) distribuite dal prof. Luigi Orsina e dalla prof.ssa Azahara De La Torre Pedraza nell'ambito dell'insegnamento di "Calcolo Integrale" del corso di laurea in Informatica (Triennale) presso Sapienza Università di Roma.
+
+Per contribuire al progetto, puoi inviare le tue schede a: [giovi.cinieri@gmail.com](mailto:giovi.cinieri@gmail.com)
 
 ## Set di schede n°1 (Serie numeriche, geometriche e armoniche, confronto, confronto asintotico):
 |    |    |    |    |    |
@@ -64,7 +66,14 @@ Questo repository contiene una raccolta di schede di esercizi con soluzioni (di 
 | [06](SchedeC1/00095.pdf) | [07](SchedeC1/00120.pdf) | [08](SchedeC1/00145.pdf) |
 
 ## Esempio di esonero 1
+<<<<<<< HEAD
 [Esonero 1][(Esonero1/00092)]
 |    |    |    |
 |----|----|----|
 | [Esonero 1][(Esonero1/00043)] | [Esonero1](Esonero1/00092.pdf)| [Esonero2](Esonero2/00049.pdf) | [Esonero2](Esonero2/00098.pdf) | 
+=======
+|    |    |    |    |    |
+|----|----|----|----|----|
+|[Esonero 1](Esonero1/00092.pdf)|
+
+>>>>>>> a549d823ed93c9ab6f381d73f771e3e0525b0510

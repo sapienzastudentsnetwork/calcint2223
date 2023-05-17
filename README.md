@@ -68,4 +68,4 @@ Per contribuire al progetto, puoi inviare le tue schede a: [giovi.cinieri@gmail.
 ## Esempio di esonero 1
 |    |    |    |
 |----|----|----|
-| [Esonero 1][(Esonero1/00043.pdf)] | [Esonero1](Esonero1/00092.pdf)| [Esonero2](Esonero2/00049.pdf) | [Esonero2](Esonero2/00098.pdf) | 
+| [Esonero 1](Esonero1/00043.pdf) | [Esonero1](Esonero1/00092.pdf)| [Esonero2](Esonero2/00049.pdf) | [Esonero2](Esonero2/00098.pdf) | 

@@ -65,7 +65,27 @@ Per contribuire al progetto, puoi inviare le tue schede a: [giovi.cinieri@gmail.
 | [01](SchedeC1/00021.pdf) | [02](SchedeC1/00038.pdf)| [03](SchedeC1/00041.pdf) | [04](SchedeC1/00042.pdf) | [05](/SchedeC1/00058.pdf)
 | [06](SchedeC1/00095.pdf) | [07](SchedeC1/00120.pdf) | [08](SchedeC1/00145.pdf) |
 
-## Esempio di esonero 1
+## Set di schede n°8 (Equazioni Differenziali di primo ordine e equazioni a variabili separabili):
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](SchedeC2/00021.pdf) | [02](SchedeC2/00022.pdf)| [03](SchedeC2/00041.pdf) | [04](SchedeC2/00042.pdf) | [05](/SchedeC2/00058.pdf)
+| [06](SchedeC2/00095.pdf) | [07](SchedeC2/00120.pdf) | [08](SchedeC2/00145.pdf) |
+
+## Set di schede n°7 (Equazioni Differenziali di secondo ordine):
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](SchedeC3/00021.pdf) | [02](SchedeC3/00038.pdf)| [03](SchedeC3/00041.pdf) | [04](SchedeC3/00042.pdf) | [05](/SchedeC3/00058.pdf)
+| [06](SchedeC3/00095.pdf) | [07](SchedeC3/00120.pdf) | [08](SchedeC3/00145.pdf) |
+
+## Set di schede di Pre-Esonero n°3:
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [01](SchedeB4/00009.pdf) | [02](SchedeB4/00023.pdf)| [03](SchedeB4/00025.pdf) | [04](SchedeB4/00036.pdf) | [05](/SchedeB4/00062.pdf)
+| [06](SchedeB4/00063.pdf) | [07](SchedeB4/00098.pdf) | [08](SchedeB4/00119.pdf) |
+
+
+## Esempi di Esoneri
 |    |    |    |
 |----|----|----|
-| [Esonero 1](Esonero1/00043.pdf) | [Esonero1](Esonero1/00092.pdf)| [Esonero2](Esonero2/00049.pdf) | [Esonero2](Esonero2/00098.pdf) | 
+| [Esonero 1](Esonero1/00043.pdf) | [Esonero 1](Esonero1/00053.pdf) | [Esonero 1](Esonero2/00092.pdf) | 
+| [Esonero 2](Esonero2/00016.pdf) | [Esonero 2](Esonero2/00049.pdf) | [Esonero 2](Esonero2/00067.pdf) |  

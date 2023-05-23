@@ -80,8 +80,8 @@ Per contribuire al progetto, puoi inviare le tue schede a: [giovi.cinieri@gmail.
 ## Set di schede di Pre-Esonero n°3:
 |    |    |    |    |    |
 |----|----|----|----|----|
-| [01](SchedeB4/00009.pdf) | [02](SchedeB4/00023.pdf)| [03](SchedeB4/00025.pdf) | [04](SchedeB4/00036.pdf) | [05](/SchedeB4/00062.pdf)
-| [06](SchedeB4/00063.pdf) | [07](SchedeB4/00098.pdf) | [08](SchedeB4/00119.pdf) |
+| [01](SchedeC4/00009.pdf) | [02](SchedeC4/00023.pdf)| [03](SchedeC4/00025.pdf) | [04](SchedeC4/00036.pdf) | [05](/SchedeC4/00062.pdf)
+| [06](SchedeC4/00063.pdf) | [07](SchedeC4/00098.pdf) | [08](SchedeC4/00119.pdf) |
 
 
 ## Esempi di Esoneri

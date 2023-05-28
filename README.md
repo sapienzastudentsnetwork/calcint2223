@@ -71,7 +71,7 @@ Per contribuire al progetto, puoi inviare le tue schede a: [giovi.cinieri@gmail.
 | [01](SchedeC2/00021.pdf) | [02](SchedeC2/00022.pdf)| [03](SchedeC2/00041.pdf) | [04](SchedeC2/00042.pdf) | [05](/SchedeC2/00058.pdf)
 | [06](SchedeC2/00095.pdf) | [07](SchedeC2/00120.pdf) | [08](SchedeC2/00145.pdf) |
 
-## Set di schede n°7 (Equazioni Differenziali di secondo ordine):
+## Set di schede n°9 (Equazioni Differenziali di secondo ordine):
 |    |    |    |    |    |
 |----|----|----|----|----|
 | [01](SchedeC3/00021.pdf) | [02](SchedeC3/00038.pdf)| [03](SchedeC3/00041.pdf) | [04](SchedeC3/00042.pdf) | [05](/SchedeC3/00058.pdf)

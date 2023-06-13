@@ -88,4 +88,5 @@ Per contribuire al progetto, puoi inviare le tue schede a: [giovi.cinieri@gmail.
 |    |    |    |
 |----|----|----|
 | [Esonero 1](Esonero1/00043.pdf) | [Esonero 1](Esonero1/00053.pdf) | [Esonero 1](Esonero2/00092.pdf) | 
-| [Esonero 2](Esonero2/00016.pdf) | [Esonero 2](Esonero2/00049.pdf) | [Esonero 2](Esonero2/00067.pdf) |  
+| [Esonero 2](Esonero2/00016.pdf) | [Esonero 2](Esonero2/00049.pdf) | [Esonero 2](Esonero2/00067.pdf) |
+| [Esonero 3](Esonero2/00056.pdf) | [Esonero 3](Esonero2/00057.pdf) | [Esonero 3](Esonero2/00112.pdf) |  
